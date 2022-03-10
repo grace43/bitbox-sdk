@@ -1,4 +1,5 @@
-# BITBOX SDK
+# DEPRECATED:BITBOX SDK
+This repository has been deprecated because of it being a forked lib.
 
 `bitbox-sdk` is a utility for creating great [Bitcoin Cash](https://www.bitcoincash.org) applications. It can be used from the command line or from within client/server apps.
 
